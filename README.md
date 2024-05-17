@@ -6,3 +6,4 @@ b) No, no son iguales. En sinhilos.py me tardó 5.5 segundos y a mi compañero 6
 
 c) Lo único que cambió es que tardó un poco más, pero por una diferencia mínima.
 
+2) c) https://github.com/jeremiasclaros/ASO2024TPs/blob/main/2.%20b%20Hamburguesas.png 
